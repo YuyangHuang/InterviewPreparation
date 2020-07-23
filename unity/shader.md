@@ -9,3 +9,4 @@
 　　(1)**Fixed function shader** 属于固定渲染管线 Shader, 基本用于高级Shader在老显卡无法显示时的Fallback(之后有详细介绍)。使用的是ShaderLab语言，语法与微软的FX files 或者NVIDIA的 CgFX类似。
 　　(2)**Vertex and Fragment Shader** 最强大的Shader类型，属于可编程渲染管线. 使用的是CG/HLSL语法。
 　　(3)**Surface Shader** Unity3d推崇的Shader类型，使用Unity预制的光照模型来进行光照运算。使用的也是CG/HLSL语法。
+
